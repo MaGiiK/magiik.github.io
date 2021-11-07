@@ -1,16 +1,15 @@
 # Site settings
-title: HOME | xaxxjs
+title: HOME | MAGiiK
 description: Personal blog about cibersecurity, scripts and more!
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: xaxxjs
-user_description: I'm passionate about cybersecurity, scripting and I am currently eJPT certified
-user_title: Cybersecurity Enthusiast
-email: trabajosandujar11@gmail.com
-twitter_username: sergioab7
-github_username:  sergioab7
+username: MaGiiK
+user_description: I'm passionate about cybersecurity and scripting
+email: cybermagiik@gmail.com
+twitter_username: ItMagiik
+github_username:  MaGiiK
 #gplus_username:  lorem_ipsum
 
 # Google-analytics
